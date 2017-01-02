@@ -1,0 +1,9 @@
+D:\Studiju\3 kursas\Projektavimas\projektavimo3\projektavimo3\bin\Debug\projektavimo3.exe.config
+D:\Studiju\3 kursas\Projektavimas\projektavimo3\projektavimo3\bin\Debug\projektavimo3.exe
+D:\Studiju\3 kursas\Projektavimas\projektavimo3\projektavimo3\bin\Debug\projektavimo3.pdb
+D:\Studiju\3 kursas\Projektavimas\projektavimo3\projektavimo3\obj\Debug\projektavimo3.csprojResolveAssemblyReference.cache
+D:\Studiju\3 kursas\Projektavimas\projektavimo3\projektavimo3\obj\Debug\projektavimo3.exe
+D:\Studiju\3 kursas\Projektavimas\projektavimo3\projektavimo3\obj\Debug\projektavimo3.pdb
+D:\Studiju\3_kursas\Rudens\Projektavimas\projektavimo3\projektavimo3\bin\Debug\projektavimo3.exe.config
+D:\Studiju\3_kursas\Rudens\Projektavimas\projektavimo3\projektavimo3\obj\Debug\projektavimo3.exe
+D:\Studiju\3_kursas\Rudens\Projektavimas\projektavimo3\projektavimo3\obj\Debug\projektavimo3.pdb

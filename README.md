@@ -1,1 +1,2 @@
 "# Projektavimo3" 
+"# strategy" 
